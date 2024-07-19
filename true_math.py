@@ -7,4 +7,4 @@ def divide(first, second):
         return first / second
 
 
-print(divide(1, 0))
+divide(1,1 )
